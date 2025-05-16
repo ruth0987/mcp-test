@@ -1,0 +1,27 @@
+[project]
+name = "my-uv-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arxiv>=2.2.0",
+    "modelcontextprotocol>=0.1.0",
+    "psycopg>=3.2.9",
+    "requests>=2.32.3",
+    "rich>=14.0.0",
+    "httpx>=0.27.0",
+    "google-generativeai>=0.5.0",
+    "python-dotenv>=1.0.0",
+    "anyio>=4.0.0",
+    "prompt_toolkit>=3.0.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."] # Look in the current directory
+include = ["clent*", "server*"] # Include directories starting with clent and server
+# If 'clent' is a typo for 'client', use: include = ["client*", "server*"]

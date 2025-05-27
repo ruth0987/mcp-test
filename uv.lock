@@ -930,20 +930,30 @@ wheels = [
 [[package]]
 name = "my-uv-project"
 version = "0.1.0"
-source = { virtual = "." }
+source = { editable = "." }
 dependencies = [
+    { name = "anyio" },
     { name = "arxiv" },
+    { name = "google-generativeai" },
+    { name = "httpx" },
     { name = "modelcontextprotocol" },
+    { name = "prompt-toolkit" },
     { name = "psycopg" },
+    { name = "python-dotenv" },
     { name = "requests" },
     { name = "rich" },
 ]
 
 [package.metadata]
 requires-dist = [
+    { name = "anyio", specifier = ">=4.0.0" },
     { name = "arxiv", specifier = ">=2.2.0" },
+    { name = "google-generativeai", specifier = ">=0.5.0" },
+    { name = "httpx", specifier = ">=0.27.0" },
     { name = "modelcontextprotocol", specifier = ">=0.1.0" },
+    { name = "prompt-toolkit", specifier = ">=3.0.0" },
     { name = "psycopg", specifier = ">=3.2.9" },
+    { name = "python-dotenv", specifier = ">=1.0.0" },
     { name = "requests", specifier = ">=2.32.3" },
     { name = "rich", specifier = ">=14.0.0" },
 ]

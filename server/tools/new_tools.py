@@ -4,6 +4,7 @@ import os
 from typing import List
 from mcp.server.fastmcp import FastMCP
 import psycopg
+import pydantic 
 
 PAPER_DIR = "papers"
 
@@ -22,6 +23,7 @@ def search_papers(topic: str, max_results: int = 5) -> List[str]:
     Returns:
         List of paper IDs found in the search
     """
+    os.makedirs(PAPER_DIR, exist_ok=True)  # Ensure base directory exists
     
     # Use arxiv to find the papers 
     client = arxiv.Client()
@@ -114,9 +116,10 @@ def write_to_db(conn_str: str, query: str, params=()):
     return "Write successful"
 
 
+
 if __name__ == "__main__":
-    # Initialize and run the server
-    mcp.run(transport='stdio')
+    # Initialize and run the server in stdio mode
+    mcp.run("stdio")
 
 
 

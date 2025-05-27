@@ -1,0 +1,60 @@
+{
+  "2411.09613v1": {
+    "title": "PTR: Precision-Driven Tool Recommendation for Large Language Models",
+    "authors": [
+      "Hang Gao",
+      "Yongfeng Zhang"
+    ],
+    "summary": "By augmenting Large Language Models (LLMs) with external tools, their\ncapacity to solve complex problems has been significantly enhanced. However,\ndespite ongoing advancements in the parsing capabilities of LLMs, incorporating\nall available tools simultaneously in the prompt remains impractical due to the\nvast number of external tools. Consequently, it is essential to provide LLMs\nwith a precise set of tools tailored to the specific task, considering both\nquantity and quality. Current tool retrieval methods primarily focus on\nrefining the ranking list of tools and directly packaging a fixed number of\ntop-ranked tools as the tool set. However, these approaches often fail to equip\nLLMs with the optimal set of tools prior to execution, since the optimal number\nof tools for different tasks could be different, resulting in inefficiencies\nsuch as redundant or unsuitable tools, which impede immediate access to the\nmost relevant tools. This paper addresses the challenge of recommending precise\ntoolsets for LLMs. We introduce the problem of tool recommendation, define its\nscope, and propose a novel Precision-driven Tool Recommendation (PTR) approach.\nPTR captures an initial, concise set of tools by leveraging historical tool\nbundle usage and dynamically adjusts the tool set by performing tool matching,\nculminating in a multi-view-based tool addition. Additionally, we present a new\ndataset, RecTools, and a metric, TRACC, designed to evaluate the effectiveness\nof tool recommendation for LLMs. We further validate our design choices through\ncomprehensive experiments, demonstrating promising accuracy across two open\nbenchmarks and our RecTools dataset.",
+    "pdf_url": "http://arxiv.org/pdf/2411.09613v1",
+    "published": "2024-11-14"
+  },
+  "2406.17465v2": {
+    "title": "Enhancing Tool Retrieval with Iterative Feedback from Large Language Models",
+    "authors": [
+      "Qiancheng Xu",
+      "Yongqi Li",
+      "Heming Xia",
+      "Wenjie Li"
+    ],
+    "summary": "Tool learning aims to enhance and expand large language models' (LLMs)\ncapabilities with external tools, which has gained significant attention\nrecently. Current methods have shown that LLMs can effectively handle a certain\namount of tools through in-context learning or fine-tuning. However, in\nreal-world scenarios, the number of tools is typically extensive and\nirregularly updated, emphasizing the necessity for a dedicated tool retrieval\ncomponent. Tool retrieval is nontrivial due to the following challenges: 1)\ncomplex user instructions and tool descriptions; 2) misalignment between tool\nretrieval and tool usage models. To address the above issues, we propose to\nenhance tool retrieval with iterative feedback from the large language model.\nSpecifically, we prompt the tool usage model, i.e., the LLM, to provide\nfeedback for the tool retriever model in multi-round, which could progressively\nimprove the tool retriever's understanding of instructions and tools and reduce\nthe gap between the two standalone components. We build a unified and\ncomprehensive benchmark to evaluate tool retrieval models. The extensive\nexperiments indicate that our proposed approach achieves advanced performance\nin both in-domain evaluation and out-of-domain evaluation.",
+    "pdf_url": "http://arxiv.org/pdf/2406.17465v2",
+    "published": "2024-06-25"
+  },
+  "1610.00984v1": {
+    "title": "On the State of Computing in Statistics Education: Tools for Learning and for Doing",
+    "authors": [
+      "Amelia McNamara"
+    ],
+    "summary": "This paper lays out the current landscape of tools used in statistics\neducation. In particular, it considers graphing calculators, spreadsheets,\napplets and microworlds, standalone educational software, statistical\nprogramming tools, tools for reproducible research and bespoke tools. The\nstrengths and weaknesses of the tools are considered, particularly in the\ncontext of McNamara (2016)'s list of attributes for a statistical computing\ntool. Best practices for computing in introductory statistics are suggested.",
+    "pdf_url": "http://arxiv.org/pdf/1610.00984v1",
+    "published": "2016-10-01"
+  },
+  "2410.14594v2": {
+    "title": "Toolshed: Scale Tool-Equipped Agents with Advanced RAG-Tool Fusion and Tool Knowledge Bases",
+    "authors": [
+      "Elias Lumer",
+      "Vamse Kumar Subbiah",
+      "James A. Burke",
+      "Pradeep Honaganahalli Basavaraju",
+      "Austin Huber"
+    ],
+    "summary": "Recent advancements in tool-equipped Agents (LLMs) have enabled complex tasks\nlike secure database interactions and multi-agent code development. However,\nscaling tool capacity beyond agent reasoning or model limits remains a\nchallenge. In this paper, we address these challenges by introducing Toolshed\nKnowledge Bases, a tool knowledge base (vector database) designed to store\nenhanced tool representations and optimize tool selection for large-scale\ntool-equipped Agents. Additionally, we propose Advanced RAG-Tool Fusion, a\nnovel ensemble of tool-applied advanced retrieval-augmented generation (RAG)\ntechniques across the pre-retrieval, intra-retrieval, and post-retrieval\nphases, without requiring model fine-tuning. During pre-retrieval, tool\ndocuments are enhanced with key information and stored in the Toolshed\nKnowledge Base. Intra-retrieval focuses on query planning and transformation to\nincrease retrieval accuracy. Post-retrieval refines the retrieved tool\ndocuments and enables self-reflection. Furthermore, by varying both the total\nnumber of tools (tool-M) an Agent has access to and the tool selection\nthreshold (top-k), we address trade-offs between retrieval accuracy, agent\nperformance, and token cost. Our approach achieves 46%, 56%, and 47% absolute\nimprovements on the ToolE single-tool, ToolE multi-tool and Seal-Tools\nbenchmark datasets, respectively (Recall@5).",
+    "pdf_url": "http://arxiv.org/pdf/2410.14594v2",
+    "published": "2024-10-18"
+  },
+  "2405.08355v1": {
+    "title": "Seal-Tools: Self-Instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark",
+    "authors": [
+      "Mengsong Wu",
+      "Tong Zhu",
+      "Han Han",
+      "Chuanyuan Tan",
+      "Xiang Zhang",
+      "Wenliang Chen"
+    ],
+    "summary": "This paper presents a new tool learning dataset Seal-Tools, which contains\nself-instruct API-like tools. Seal-Tools not only offers a large number of\ntools, but also includes instances which demonstrate the practical application\nof tools. Seeking to generate data on a large scale while ensuring reliability,\nwe propose a self-instruct method to generate tools and instances, allowing\nprecise control over the process. Moreover, our Seal-Tools contains hard\ninstances that call multiple tools to complete the job, among which some are\nnested tool callings. For precise and comprehensive evaluation, we use strict\nformat control and design three metrics from different dimensions. Therefore,\nSeal-Tools can serve as a new benchmark to evaluate the tool-calling ability of\nLLMs. Finally, we evaluate several prevalent LLMs and our finetuned model on\nSeal-Tools. The results show that current systems are far from perfect. The\ncode, data and experiment results are available at\nhttps://github.com/fairyshine/Seal-Tools .",
+    "pdf_url": "http://arxiv.org/pdf/2405.08355v1",
+    "published": "2024-05-14"
+  }
+}

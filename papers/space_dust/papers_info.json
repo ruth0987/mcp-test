@@ -1,0 +1,55 @@
+{
+  "1912.00707v1": {
+    "title": "The Dawn of Dust Astronomy",
+    "authors": [
+      "Eberhard Gr\u00fcn",
+      "Harald Kr\u00fcger",
+      "Ralf Srama"
+    ],
+    "summary": "We review the development of dust science from the first ground-based\nastronomical observations of dust in space to compositional analysis of\nindividual dust particles and their source objects. A multitude of\nobservational techniques is available for the scientific study of space dust:\nfrom meteors and interplanetary dust particles collected in the upper\natmosphere to dust analyzed in situ or returned to Earth. In situ dust\ndetectors have been developed from simple dust impact detectors determining the\ndust hazard in Earth orbit to dust telescopes capable of providing\ncompositional analysis and accurate trajectory determination of individual dust\nparticles in space. The concept of Dust Astronomy has been developed,\nrecognizing that dust particles, like photons, carry information from remote\nsites in space and time. From knowledge of the dust particles' birthplace and\ntheir bulk properties, we learn about the remote environment out of which the\nparticles were formed. Dust Observatory missions like Cassini, Stardust, and\nRosetta study Saturn's satellites and rings and the dust environments of comet\nWild 2 and comet Churyumov-Gerasimenko, respectively. Supplemented by\nsimulations of dusty processes in the laboratory we are beginning to understand\nthe dusty environments in space.",
+    "pdf_url": "http://arxiv.org/pdf/1912.00707v1",
+    "published": "2019-12-02"
+  },
+  "2404.11009v2": {
+    "title": "Imprints of the Local Bubble and Dust Complexity on Polarized Dust Emission",
+    "authors": [
+      "George Halal",
+      "S. E. Clark",
+      "Mehrnoosh Tahani"
+    ],
+    "summary": "Using 3D dust maps and Planck polarized dust emission data, we investigate\nthe influence of the 3D geometry of the nearby interstellar medium (ISM) on the\nstatistics of the dust polarization on large ($80'$) scales. We test recent\nmodels that assume that the magnetic field probed by the polarized dust\nemission is preferentially tangential to the Local Bubble wall, but we do not\nfind an imprint of the Local Bubble geometry on the dust polarization fraction.\nWe also test the hypothesis that the complexity of the 3D dust distribution\ndrives some of the measured variation of the dust polarization fraction. We\ncompare sightlines with similar total column densities and find that, on\naverage, the dust polarization fraction decreases when the dust column is\nsubstantially distributed among multiple components at different distances.\nConversely, the dust polarization fraction is higher for sightlines where the\ndust is more concentrated in 3D space. This finding is statistically\nsignificant for the dust within 1.25 kpc, but the effect disappears if we only\nconsider dust within 270 pc. In conclusion, we find that the extended 3D dust\ndistribution, rather than solely the dust associated with the Local Bubble,\nplays a role in determining the observed dust polarization fraction at 80$'$.\nThis conclusion is consistent with a simple analytical prediction and remains\nrobust under various modifications to the analysis. These results illuminate\nthe relationship between the 3D geometry of the ISM and tracers of the\ninterstellar magnetic field. We discuss implications for our understanding of\nthe polarized dust foreground to the cosmic microwave background.",
+    "pdf_url": "http://arxiv.org/pdf/2404.11009v2",
+    "published": "2024-04-17"
+  },
+  "2204.07397v3": {
+    "title": "An exploration of dust grain growth within WCd systems using an advected scalar dust model",
+    "authors": [
+      "J. W. Eatson",
+      "J. M. Pittard",
+      "S. Van Loo"
+    ],
+    "summary": "Dust production is one of the more curious phenomena observed in massive\nbinary systems with interacting winds. The high temperatures, UV photon flux\nand violent shocks should destroy any dust grains that condense. However, in\nsome extreme cases dust production yields of approximately 30% of the total\nmass loss rate of the stellar winds have been observed. In order to better\nunderstand this phenomenon a parameter space exploration was performed using a\nseries of numerical models of dust producing carbon phase Wolf-Rayet (WCd)\nsystems. These models incorporated a passive scalar dust model simulating dust\ngrowth, destruction and radiative cooling. We find that reasonable dust yields\nwere produced by these simulations. Significant changes in the dust yield were\ncaused by changing the mass loss rates of the stars, with a greater mass loss\nrate contributing to increased dust yields. Similarly, a close orbit between\nthe stars also resulted in higher dust yields. Finally, a high velocity wind\nshear, which induces Kelvin-Helmholtz (KH) instabilities and wind mixing,\ndrastically increases the dust yields.",
+    "pdf_url": "http://arxiv.org/pdf/2204.07397v3",
+    "published": "2022-04-15"
+  },
+  "astro-ph/0506143v1": {
+    "title": "Infrared Emission from Intracluster Dust Grains and Constraints on Dust Properties",
+    "authors": [
+      "Kenkichi Yamada",
+      "Tetsu Kitayama"
+    ],
+    "summary": "For 117 clusters of galaxies, we explore the detectability of intracluster\ndust grains by current and future infrared facilities, taking into account both\ncollisional heating and sputtering of grains by ambient plasma. If the dust\ngrains are injected into the intergalactic space with the amount and size\ncomparable to the Galactic values, the dust-to-gas ratio is typically $10^{-6}$\nand the mean dust temperature is $\\sim 30$ K near the cluster center. The\npredicted infrared intensities lie marginally above the detection thresholds\nfor Spitzer Space Telescope, ASTRO-F, Herschel and SPICA missions. For some\nnearby clusters such as Perseus, A3571, A2319, A3112 and A2204, good detections\nof intracluster dust signal are expected in the 70 $\\mu$m band. Given rather\ntight constraints on the dust temperature from observed electron density and\ntemperature, the dust mass can be inferred directly from the infrared\nobservations. Further constraints on the size distribution will be obtained\nonce multi-band data are available. They will definitely provide a powerful\nprobe of the dust injection processes and dust-gas interactions in the\nintergalactic space.",
+    "pdf_url": "http://arxiv.org/pdf/astro-ph/0506143v1",
+    "published": "2005-06-07"
+  },
+  "1701.07200v1": {
+    "title": "Dust evolution with active galactic nucleus feedback in elliptical galaxies",
+    "authors": [
+      "Hiroyuki Hirashita",
+      "Takaya Nozawa"
+    ],
+    "summary": "We have recently suggested that dust growth in the cold gas phase dominates\nthe dust abundance in elliptical galaxies while dust is efficiently destroyed\nin the hot X-ray emitting plasma (hot gas). In order to understand the dust\nevolution in elliptical galaxies, we construct a simple model that includes\ndust growth in the cold gas and dust destruction in the hot gas. We also take\ninto account the effect of mass exchange between these two gas components\ninduced by active galactic nucleus (AGN) feedback. We survey reasonable ranges\nof the relevant parameters in the model and find that AGN feedback cycles\nactually produce a variety in cold gas mass and dust-to-gas ratio. By comparing\nwith an observational sample of nearby elliptical galaxies, we find that,\nalthough the dust-to-gas ratio varies by an order of magnitude in our model,\nthe entire range of the observed dust-to-gas ratios is difficult to be\nreproduced under a single parameter set. Variation of the dust growth\nefficiency is the most probable solution to explain the large variety in\ndust-to-gas ratio of the observational sample. Therefore, dust growth can play\na central role in creating the variation in dust-to-gas ratio through the AGN\nfeedback cycle and through the variation in dust growth efficiency.",
+    "pdf_url": "http://arxiv.org/pdf/1701.07200v1",
+    "published": "2017-01-25"
+  }
+}

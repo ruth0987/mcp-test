@@ -1,0 +1,65 @@
+{
+  "2301.09885v1": {
+    "title": "Photometry of LROC NAC resolved rock-rich regions on the Moon",
+    "authors": [
+      "Rachael M. Marshal",
+      "Ottaviano Ruesch",
+      "Christian Woehler",
+      "Kay Wohlfarth",
+      "Sergey Velichko"
+    ],
+    "summary": "The study of meter and sub-meter scale geological features, especially\nboulders and boulder fields, on the surface of airless bodies can provide\ninsight into the evolution of the regolith and the contribution of various\nprocesses to its formation. Prior studies have examined the photometric\nproperties of the lunar regolith surrounding young craters using image ratios.\nWe extend this methodology to extracting surface properties, in particular the\nroughness characteristics, exclusive to boulder fields and the boulders that\nconstitute them around impact craters. In this study, rock-rich regions on the\nMoon are investigated using photometric roughness by employing a normalised\nlogarithmic phase ratio difference metric to measure and compare the slope of\nthe phase curve (reflectance versus phase angle) of a rock-rich field to a\nrock-free field. We compare the photometric roughness of rock-rich fields on\nsimulated images with the photometric roughness of rock-rich fields on LROC NAC\nimages (0.5m/pixel). Using this technique, we determine that rock-rich surfaces\nare not necessarily photometrically rougher than rock-free areas. Additionally,\nwe find the roughness of resolved rock fields to indicate the presence of\ndiverse sub-mm scale rock roughness (microtopography) and, possibly, variable\nrock single scattering albedo. These latter properties are likely controlled by\nrock petrology and material response to weathering and erosion. Spatial\nclustering of photometrically smooth and rough boulder fields in the downrange\nand uprange of two craters is observed, reflecting ejecta asymmetry and\npossibly indicating asymmetric modification of ejecta rock surfaces during the\nimpact excavation process.",
+    "pdf_url": "http://arxiv.org/pdf/2301.09885v1",
+    "published": "2023-01-24"
+  },
+  "2210.07349v2": {
+    "title": "Quantifying and analyzing rock trait distributions of rocky fault scarps using deep learning approach",
+    "authors": [
+      "Zhiang Chen",
+      "Chelsea Scott",
+      "Devin Keating",
+      "Amanda Clarke",
+      "Jnaneshwar Das",
+      "Ramon Arrowsmith"
+    ],
+    "summary": "We apply a deep learning model to segment and identify rock characteristics\nbased on a Structure-from-Motion orthomap and digital elevation model of a\nrocky fault scarp in the Volcanic Tablelands, eastern California. By\npost-processing the deep learning results, we build a semantic rock map and\nanalyze rock trait distributions. The resulting semantic map contains nearly\n230,000 rocks with effective diameters ranging from 2 cm to 250 cm. Rock trait\ndistributions provide a new perspective on rocky fault scarp development and\nextend past research on scarp geometry including slope, height, and length.\nHeatmaps indicate rock size spatial distributions on the fault scarp and\nsurrounding topographic flats. Median grain size changes perpendicular to the\nfault scarp trace with the largest rocks exposed on and downslope from the\nscarp footwall. Correlation analyses of the segmented fault scarp illustrate\nthe relationship between rock trait statistics and fault scarp geomorphology.\nLocal fault scarp height correlates with median grain size (R2 of 0.6), the\nmean grain size of the largest rocks (R2 of 0.76), and the ratio of the number\nof small to large rocks (R2 of 0.40). The positive correlation (R2 of 0.81)\nbetween local fault scarp height and standard deviation of grain size suggests\nthat rocks on a higher fault scarp are less well sorted. The correlation\nanalysis between fault scarp height and rock orientation statistics supports a\nparticle transportation model in which locally higher fault scarps have\nrelatively more rocks with long axes parallel to fault scarp trace because\nrocks have a larger distance to roll and orient the long axes. Our work\ndemonstrates a data-driven approach to geomorphology based on rock trait\ndistributions, promising a greater understanding of fault scarp formation, as\nwell as many other applications for which granulometry is an indicator of\nprocess.",
+    "pdf_url": "http://arxiv.org/pdf/2210.07349v2",
+    "published": "2022-10-13"
+  },
+  "2103.11663v2": {
+    "title": "Thermodynamically consistent model for poroelastic rocks towards tectonic and volcanic processes and earthquakes",
+    "authors": [
+      "Tom\u00e1\u0161 Roub\u00ed\u010dek"
+    ],
+    "summary": "A general-purpose model combining concepts from rational continuum mechanics,\nfracture and damage mechanics, plasticity, and poromechanics is devised in\nEulerian coordinates, involving objective time derivatives. The model complies\nwith mass, momentum, and energy conservation as well as entropy inequality and\nobjectivity. It is devised to cover many diverse phenomena, specifically\nrupture of existing lithospheric faults, tectonic earthquakes, generation and\npropagation of seismic waves, birth of new tectonic faults, or volcanic\nactivity, aseismic creep, folding of rocks, aging of rocks, long-distance\nsaturated water transport and flow in poroelastic rocks, melting of rocks and\nformation of magma chambers, or solidification of magma.",
+    "pdf_url": "http://arxiv.org/pdf/2103.11663v2",
+    "published": "2021-03-22"
+  },
+  "2412.06180v1": {
+    "title": "Research on Composite Bit Technology for Hard Formations and Its Application in Igneous Rock",
+    "authors": [
+      "Lian Chen",
+      "Jiayuan Zhao",
+      "Xiaohu Wei",
+      "Zhaohui Song",
+      "Liyuan Yang",
+      "Jintao Zhu"
+    ],
+    "summary": "The igneous rocks in deep formation have the characteristics of hardness,\npoor drillability and high abrasiveness, which is a difficulty in speeding up\ndrilling. The drilling efficiency of existing conventional bits is low in\nigneous rocks. Based on the characteristics of igneous rocks, rock mechanical\nparameters and drillability experiments of granite, sandstone and other rocks\nwere carried out. The rock drilling experiments of composite bit, tri-cone bit\nand PDC bit were carried out. Experiments have shown that in granite with very\nhigh strength, the drilling efficiency of conventional cone bit is very low,\nand it is extremely difficult for PDC bit to penetrate. The impact crushing\neffect of the cone of the composite bit can make the rock at the bottom of the\nwell produce pits and cracks, which can assist the PDC cutters to penetrate\ninto the formation, and solve the problem of the PDC cutters difficulty in\npenetrating in hard formations. In softer formations, the rock-breaking\nadvantage of composite bit is not obvious, and the rock-breaking efficiency is\nlower than that of PDC bit. However, in hard formations, the advantage of\ncomposite bit is obvious, with higher drilling efficiency than PDC bit and cone\nbits. The personalized composite bit developed for deep igneous rocks\nformations has fast drilling speed, strong sustained drilling ability, long\nfootage, and significant drilling speed-up effect. It significantly reduces the\nnumber of runs in deep drilling operations and achieves good application\nresults. The composite bit is suitable for drilling in deep igneous\nhard-to-drill formations, and it has obvious advantages in deep igneous\nformations. It is a good choice for drilling speed-up in this kind of\nhard-to-drill formation.",
+    "pdf_url": "http://arxiv.org/pdf/2412.06180v1",
+    "published": "2024-12-09"
+  },
+  "2503.01047v1": {
+    "title": "Mars' Young Sedimentary Rocks: Early thinning, late persistence, diachronous boundaries, and a regional dichotomy",
+    "authors": [
+      "Madison L. Turner",
+      "Sabrina Y. Khan",
+      "Kevin W. Lewis",
+      "Axel Noblet",
+      "Edwin S. Kite"
+    ],
+    "summary": "Mars' sedimentary rocks record Gyrs of environmental change. New data enable\nthe first global analysis of paleo-environment relevant physical properties of\nthese rocks, including layer thickness and accumulation rate. We find that\nlayer thicknesses of post-3.5 Ga sedimentary rocks across the Martian surface\nshow coherent variations at ~1000 km-scale that are inconsistent with simple\nvolcanic and climatic hypotheses for formation, which are consistent with\nglobal compositional homogeneity at orbital scales. These data, in combination\nwith new analyses of outcrop age and total rock volume demonstrate a global\ndecrease in layer thickness that predates the eventual drop off in preserved\nsedimentary rock volume per Myr. The new constraints confirm a diachronous\ntransition in Mars' global sedimentary rock record while also highlighting a\nregional dichotomy in young sedimentary rock deposits that has not been\nquantified before.",
+    "pdf_url": "http://arxiv.org/pdf/2503.01047v1",
+    "published": "2025-03-02"
+  }
+}
